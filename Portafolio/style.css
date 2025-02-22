@@ -19,4 +19,18 @@ body {
 .presentacion{
     display: flex;
     align-items: center;
+    margin: 10%;
+    justify-content: space-between;
+}
+
+.presentacion__contenido{
+    width: 615px;
+}
+
+.presentacion__contenido__titulo{
+    font-size: 36px;
+}
+
+.presentacion__contenido__texto{
+    font-size: 24px;
 }
