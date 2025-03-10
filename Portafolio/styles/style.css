@@ -101,6 +101,10 @@ body {
     cursor: pointer;
 }
 
+.presentacion__imagen{
+    width: 50%;
+}
+
 .footer{
     background-color: var(--color-terciario);
     padding: 24px;
